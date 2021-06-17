@@ -1,0 +1,9 @@
+/*****************************
+  Start Code Content
+*****************************/
+#content .content-post { grid-column: span 8 }
+
+@media (max-width: 992px) {
+  #content .content-post{ grid-column: span 12 }
+}
+
